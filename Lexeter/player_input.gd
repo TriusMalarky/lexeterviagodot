@@ -59,6 +59,9 @@ func handle_command(text):
 		
 
 
+
+
+
 func wait():
 	var wait_messages = [
 		" > You waste a few minutes.",
